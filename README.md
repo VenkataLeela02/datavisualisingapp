@@ -1,4 +1,5 @@
-![Result ScreenShot](https://github.com/VenkataLeela02/datavisualisingapp/assets/33417967/b1c1332b-1b33-405d-b64c-9c927e769759)
+![Result SS](https://github.com/VenkataLeela02/datavisualisingapp/assets/33417967/e0133dd1-3c21-4112-9745-50b7596c87c5)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
