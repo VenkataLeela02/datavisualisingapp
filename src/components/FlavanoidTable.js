@@ -80,7 +80,7 @@ const FlavanoidTable = () => {
                     <th>Flavanoid Mean</th>
                     <td>{sum(flavArr1)/2}</td>
                     <td>{sum(flavArr2)/2}</td>
-                    <td>{(sum(flavArr3)/2).toString()}</td>
+                    <td>{sum(flavArr3)/2}</td>
                 </tr>
                 <tr>
                     <th>Flavanoid Median</th>

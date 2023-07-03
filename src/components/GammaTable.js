@@ -84,21 +84,21 @@ const GammaTable = () => {
           <tbody>
                 <tr>
                     <th>Gamma Mean</th>
-                    <td>{Math.abs((sum(gammaArr1)/2).toFixed(3))}</td>
-                    <td>{Math.abs((sum(gammaArr2)/2).toFixed(3))}</td>
-                    <td>{Math.abs((sum(gammaArr3)/2).toFixed(3))}</td>
+                    <td>{(sum(gammaArr1)/2).toFixed(3)}</td>
+                    <td>{(sum(gammaArr2)/2).toFixed(3)}</td>
+                    <td>{(sum(gammaArr3)/2).toFixed(3)}</td>
                 </tr>
                 <tr>
                     <th>Gamma Median</th>
-                    <td>{Math.abs(median(gammaArr1).toFixed(3))}</td>
-                    <td>{Math.abs(median(gammaArr2).toFixed(3))}</td>
-                    <td>{Math.abs(median(gammaArr3).toFixed(3))}</td>
+                    <td>{median(gammaArr1).toFixed(3)}</td>
+                    <td>{median(gammaArr2).toFixed(3)}</td>
+                    <td>{median(gammaArr3).toFixed(3)}</td>
                 </tr>
                 <tr>
                     <th>Gamma Mode</th>
-                    <td>{Math.abs(mode(gammaArr1).toFixed(3))}</td>
-                    <td>{Math.abs(mode(gammaArr2).toFixed(3))}</td>
-                    <td>{Math.abs(mode(gammaArr3).toFixed(3))}</td>
+                    <td>{mode(gammaArr1).toFixed(3)}</td>
+                    <td>{mode(gammaArr2).toFixed(3)}</td>
+                    <td>{mode(gammaArr3).toFixed(3)}</td>
                 </tr>
           </tbody>
         </table>
