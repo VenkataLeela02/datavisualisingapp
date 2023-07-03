@@ -1,8 +1,13 @@
+![Result ScreenShot](https://github.com/VenkataLeela02/datavisualisingapp/assets/33417967/b1c1332b-1b33-405d-b64c-9c927e769759)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+To install yarn
+
+### `sudo npm install -g yarn`
 
 In the project directory, you can run:
 
